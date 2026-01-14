@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>• Full-stack projects (React, FastAPI, PostgreSQL) and DSA in C++<br><br>👯 I’m looking to collaborate on<br>• Open-source, hackathons, and product-focused projects<br><br>🌱 I’m currently learning<br>• Advanced DSA and Operating systems<br><br>💬 Ask me about<br>• React, APIs, databases, and algorithmic problem solving<br><br>⚡ Fun fact<br>• Awaken Heal Disrupt Create<br>
 
 
